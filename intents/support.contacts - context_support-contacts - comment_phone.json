@@ -1,0 +1,37 @@
+{
+  "id": "08298dc1-7230-44cc-a944-7a621d74b098",
+  "name": "support.contacts - context:support-contacts - comment:phone",
+  "auto": true,
+  "contexts": [
+    "support-contacts"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "support.contacts.phone",
+      "affectedContexts": [
+        {
+          "name": "support-contacts",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504184271115,
+  "fallbackIntent": false,
+  "events": []
+}

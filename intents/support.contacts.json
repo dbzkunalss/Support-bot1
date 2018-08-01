@@ -1,0 +1,29 @@
+{
+  "id": "c78b8fb2-9133-447b-80fb-9acaec39cba8",
+  "name": "support.contacts",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "support.contacts",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504184271066,
+  "fallbackIntent": false,
+  "events": []
+}

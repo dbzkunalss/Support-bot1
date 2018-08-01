@@ -1,0 +1,268 @@
+[
+  {
+    "id": "a08c92e3-7cad-41fb-b98b-e22f84c0af39",
+    "data": [
+      {
+        "text": "your page in ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "alias": "media",
+        "meta": "@media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74834373-bbab-4b75-928a-db0232b06e66",
+    "data": [
+      {
+        "text": "open",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " your ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "alias": "media",
+        "meta": "@media",
+        "userDefined": true
+      },
+      {
+        "text": " page",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af93dc52-b1db-4248-96a1-cb6f847469d2",
+    "data": [
+      {
+        "text": "show me your ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "alias": "media",
+        "meta": "@media",
+        "userDefined": true
+      },
+      {
+        "text": " page",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb89f1fe-ca72-4517-8913-49d80e09f6b6",
+    "data": [
+      {
+        "text": "do you have ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "alias": "media",
+        "meta": "@media",
+        "userDefined": true
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ffbd3d0-402d-45ce-a031-80dfd2378f65",
+    "data": [
+      {
+        "text": "I want to visit your ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "alias": "media",
+        "meta": "@media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0b9d388-b181-43d7-a866-7c45141eb142",
+    "data": [
+      {
+        "text": "what is your ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "alias": "media",
+        "meta": "@media",
+        "userDefined": true
+      },
+      {
+        "text": " page",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "efa14b54-c40a-4295-9fca-abab834e9457",
+    "data": [
+      {
+        "text": "tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " social media",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "970565ba-68fd-46f3-a2f5-96b6eb5efcef",
+    "data": [
+      {
+        "text": "your ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "alias": "media",
+        "meta": "@media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7895f0c5-9607-4776-81aa-0012f39f46fb",
+    "data": [
+      {
+        "text": "where is your ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "alias": "media",
+        "meta": "@media",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "page",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d221efbc-36e7-44ee-a718-facde0451ecb",
+    "data": [
+      {
+        "text": "do you have ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "alias": "media",
+        "meta": "@media",
+        "userDefined": true
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76c48b4d-bf78-4fed-94c8-6cfc559e0ffe",
+    "data": [
+      {
+        "text": "do you have a ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "alias": "media",
+        "meta": "@media",
+        "userDefined": true
+      },
+      {
+        "text": " page",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c26511c3-ee38-4ba4-a333-0c18662c72ac",
+    "data": [
+      {
+        "text": "are you ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "alias": "media",
+        "meta": "@media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "id": "1e60c951-43d4-4ec0-b6ce-5431ac271c71",
+  "name": "support.creators",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "support.creators",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504184271042,
+  "fallbackIntent": false,
+  "events": []
+}

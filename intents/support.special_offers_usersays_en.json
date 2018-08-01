@@ -1,0 +1,126 @@
+[
+  {
+    "id": "00976f6b-f6b1-4b85-a6b7-5788edcc5aea",
+    "data": [
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s offer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508867047
+  },
+  {
+    "id": "de382d10-499d-4a8f-b393-6abeeb9091e0",
+    "data": [
+      {
+        "text": "current offers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508867047
+  },
+  {
+    "id": "1cdea2f5-352e-42a1-8975-637645b31238",
+    "data": [
+      {
+        "text": "do you have special offers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508867047
+  },
+  {
+    "id": "8c492b48-f226-46c2-85ac-731981c2dbdc",
+    "data": [
+      {
+        "text": "too expensive for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "47e1b9b5-10cf-488d-8a15-354386ce9b82",
+    "data": [
+      {
+        "text": "special price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508867047
+  },
+  {
+    "id": "b26b5dfe-90e4-4edb-859f-0d372205a69f",
+    "data": [
+      {
+        "text": "can I have a discounts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d7df947f-f47d-444a-b0f7-b73255990ae3",
+    "data": [
+      {
+        "text": "some products are very expensive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0ec809b4-0e9a-4ab1-b08b-b98b951bb93e",
+    "data": [
+      {
+        "text": "it\u0027s too expensive for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5943a906-9537-47b8-a3d8-72afc9a7e10b",
+    "data": [
+      {
+        "text": "any special offers ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ee6621de-0d13-4260-b0e2-451400e60ca0",
+    "data": [
+      {
+        "text": "do you have any discounts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

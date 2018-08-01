@@ -1,0 +1,37 @@
+{
+  "id": "45061ab2-94b1-4996-9f9c-46e5510369e2",
+  "name": "support.contacts - context:support-contacts - comment:email",
+  "auto": true,
+  "contexts": [
+    "support-contacts"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "support.contacts.email",
+      "affectedContexts": [
+        {
+          "name": "support-contacts",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504184270952,
+  "fallbackIntent": false,
+  "events": []
+}

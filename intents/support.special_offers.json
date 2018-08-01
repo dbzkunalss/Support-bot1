@@ -1,0 +1,43 @@
+{
+  "id": "35a60eb6-1269-4581-97cd-571429a38458",
+  "name": "support.special_offers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "support.special_offers",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Have a look at our website. We always have some interesting offers there."
+        },
+        {
+          "type": 1,
+          "platform": "slack",
+          "lang": "en",
+          "title": "",
+          "buttons": [
+            {
+              "text": "Website",
+              "postback": "http://example.com/"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508867047,
+  "fallbackIntent": false,
+  "events": []
+}

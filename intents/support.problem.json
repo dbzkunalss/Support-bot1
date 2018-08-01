@@ -1,0 +1,43 @@
+{
+  "id": "c740a71c-2e78-46a5-876c-aa062373cee8",
+  "name": "support.problem",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "support.problem",
+      "affectedContexts": [
+        {
+          "name": "support-problem",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "aee5190b-8817-4bc0-b710-b5aafb276f16",
+          "dataType": "@sys.any",
+          "name": "message",
+          "value": "$message",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504184271109,
+  "fallbackIntent": false,
+  "events": []
+}

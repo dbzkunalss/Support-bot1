@@ -1,0 +1,210 @@
+[
+  {
+    "id": "df9fb2da-2529-4c35-91fb-6200cb1118cc",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " his ",
+        "userDefined": false
+      },
+      {
+        "text": "phone",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ce4b49d-d7f5-4d2d-bd52-c214caf0648b",
+    "data": [
+      {
+        "text": "what about phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8c28fdf3-4fbd-4213-8c3b-edc7b8853580",
+    "data": [
+      {
+        "text": "now their phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f678b69-2831-478c-93e5-622825783183",
+    "data": [
+      {
+        "text": "how to make a phone call",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39c2895e-c212-488f-afe4-87b04ddbf89e",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "phone",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc7cfeb3-f0ed-4847-9dab-17950b6d524f",
+    "data": [
+      {
+        "text": "her",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "760b49f8-dc9b-42cf-883a-3a01f5b55058",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "contact",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "802547a0-85ef-4f66-8750-326fd792484b",
+    "data": [
+      {
+        "text": "and their phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23323d06-3bcf-4f68-9557-311d2f052d26",
+    "data": [
+      {
+        "text": "phone number too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d94a87b-567b-456e-9801-170d4569cd9f",
+    "data": [
+      {
+        "text": "can I call ",
+        "userDefined": false
+      },
+      {
+        "text": "them",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "739bc5e4-fcc0-4e0f-9c61-75c4ee6f8530",
+    "data": [
+      {
+        "text": "phone too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b0d6374-dc99-4848-bb1a-567f824fd672",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "contact",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e54f2129-6801-4825-87df-d99cbbaeea89",
+    "data": [
+      {
+        "text": "I need their phone too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

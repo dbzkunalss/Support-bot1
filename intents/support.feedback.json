@@ -1,0 +1,42 @@
+{
+  "id": "a1818089-6126-4f92-8fcb-238e1c675b15",
+  "name": "support.feedback",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "support.feedback",
+      "affectedContexts": [
+        {
+          "name": "support-feedback",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7b98a2f8-6075-4906-a616-ba7606384827",
+          "dataType": "@sys.any",
+          "name": "message",
+          "value": "$message"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504184271002,
+  "fallbackIntent": false,
+  "events": []
+}

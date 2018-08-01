@@ -1,0 +1,315 @@
+[
+  {
+    "id": "adb00a44-41b6-455c-9658-dfb443d9eb19",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8bc0528e-a884-4617-970e-70e7a5c988c5",
+    "data": [
+      {
+        "text": "now their ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "514b594d-d8b3-4dd6-85c7-50d09d2be86a",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ca932b5-9517-446a-9723-91b4ad1c686c",
+    "data": [
+      {
+        "text": "and their ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b10f96ca-4031-4c13-b2ec-ff9e648049f5",
+    "data": [
+      {
+        "text": "an",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d86de5f-420b-4d8d-880d-d81a3d12c63e",
+    "data": [
+      {
+        "text": "can ",
+        "userDefined": false
+      },
+      {
+        "text": "I contact",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "them",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d10a069-45f2-404c-ae3e-ca831c87442d",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "now",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5fc08ce6-42fc-4bd0-a6f7-4bf31cb47c9e",
+    "data": [
+      {
+        "text": "do you know their ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "281bf0f8-1528-4f1e-b367-7a2f9526a2c5",
+    "data": [
+      {
+        "text": "can I write an ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67a472de-1649-4665-a486-34756a515d0e",
+    "data": [
+      {
+        "text": "get",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " me their ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db963b52-e680-48af-976a-04f1e63ba371",
+    "data": [
+      {
+        "text": "and their ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9e99059-c6ab-492a-a49f-e15e26e34987",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a335eff5-c25a-4d08-a04c-2b91e8f04d34",
+    "data": [
+      {
+        "text": "an",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " too please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b08796bd-d49e-457a-b764-a37ce52c008b",
+    "data": [
+      {
+        "text": "an",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " as well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

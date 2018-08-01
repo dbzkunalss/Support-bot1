@@ -1,0 +1,38 @@
+{
+  "description": "Use this agent in your app so it can answer support related inquiries and provided a channel for users to contact your developers or support representatives.",
+  "language": "en",
+  "shortDescription": "Support and CRM related conversations",
+  "examples": "User: Who created you?\nUser: Tell your developers I love you.\nUser: Report bug: It\u0027s not working!\nUser: What\u0027s your Facebook page?\nUser: I want to join the beta testing group.\nUser: Search for your developers phone number.\nUser: What\u0027s your developers email?\nUser: Do you have Instagram account?",
+  "activeAssistantAgents": [],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "support-e8403",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "America/New_York",
+  "webhook": {
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": false,
+  "customClassifierMode": "use.instead",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v1legacy",
+  "analyzeQueryTextSentiment": false
+}
